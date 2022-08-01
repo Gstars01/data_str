@@ -3,4 +3,4 @@ project(untitled1 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(untitle1 insert.c)
+add_executable(untitled1 insert.c)
